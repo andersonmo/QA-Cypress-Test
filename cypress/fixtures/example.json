@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Contact A",
+    "phone": "+1(222)333-9999",
+    "email": "invalid@email.com"
+  },
+  {
+    "name": "Be$t Friend",
+    "phone": "000222333",
+    "email": "fake@email.com"
+  },
+  {
+    "name": "Contact C", 
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "",
+    "phone": "9998887777",
+    "email": ""
+  },
+  {
+    "name": "",
+    "phone": "",
+    "email": "example@mail.ca"
+  },
+  {
+    "name": "",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "ThinkOn Sales",
+    "phone": "",
+    "email": "sales@thinkon.com"
+  },
+  {
+    "name": "ThinkOn Support",
+    "phone": "1 877 787 0306",
+    "email": ""
+  },
+  {
+    "name": "",
+    "phone": "+44 2039 664888",
+    "email": "last@email.com"
+  }
+]
